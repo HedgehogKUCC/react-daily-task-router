@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React_Daily_FinalTask/static/css/main.8b6a6555.css",
-    "main.js": "/React_Daily_FinalTask/static/js/main.924dd2c3.js",
-    "static/js/787.452db6da.chunk.js": "/React_Daily_FinalTask/static/js/787.452db6da.chunk.js",
-    "index.html": "/React_Daily_FinalTask/index.html",
-    "main.8b6a6555.css.map": "/React_Daily_FinalTask/static/css/main.8b6a6555.css.map",
-    "main.924dd2c3.js.map": "/React_Daily_FinalTask/static/js/main.924dd2c3.js.map",
-    "787.452db6da.chunk.js.map": "/React_Daily_FinalTask/static/js/787.452db6da.chunk.js.map"
+    "main.css": "/react-daily-task-router/static/css/main.8b6a6555.css",
+    "main.js": "/react-daily-task-router/static/js/main.b324dc15.js",
+    "static/js/787.452db6da.chunk.js": "/react-daily-task-router/static/js/787.452db6da.chunk.js",
+    "index.html": "/react-daily-task-router/index.html",
+    "main.8b6a6555.css.map": "/react-daily-task-router/static/css/main.8b6a6555.css.map",
+    "main.b324dc15.js.map": "/react-daily-task-router/static/js/main.b324dc15.js.map",
+    "787.452db6da.chunk.js.map": "/react-daily-task-router/static/js/787.452db6da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8b6a6555.css",
-    "static/js/main.924dd2c3.js"
+    "static/js/main.b324dc15.js"
   ]
 }
